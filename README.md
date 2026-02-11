@@ -86,6 +86,14 @@ BEGIN
   CLOSE fSTATUS;
 END;
 ```
+## 🔮 Future Enhancements
+
+- Web-based frontend using Java/Python/Django
+- Role-based login (Admin, Staff, Passenger)
+- Real-time flight status integration
+- Payment gateway simulation
+- Advanced security checks module
+
 
 ---
 

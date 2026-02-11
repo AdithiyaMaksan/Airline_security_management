@@ -2,7 +2,8 @@
 # Airline Security Management System
 
 ## 📋 Overview
-This is a DBMS-based project designed to simulate a full-fledged airline security and reservation management system. It uses SQL and PL/SQL to manage airports, airlines, flights, passengers, tickets, and employee data.
+This project implements a fully normalized Airline Security and Reservation Management System using Oracle SQL and PL/SQL. It models real-world airline operations including airport management, flight scheduling, passenger booking, employee allocation, and ticket processing while ensuring data integrity and eliminating redundancy using 3NF normalization.
+
 
 ---
 

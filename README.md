@@ -96,7 +96,7 @@ END;
 ---
 
 ## 📚 Credits
-Created by: **Adithiya K (RK21ZNB67)**  
+Created by: **Adithiya K**  
 Institution: **Lovely Professional University**
 
 ---
